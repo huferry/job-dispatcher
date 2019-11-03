@@ -1,0 +1,21 @@
+{
+  "name": "job-dispatcher",
+  "version": "1.0.0",
+  "description": "When you don't create all jobs equally but they do similar jobs, use `job-dispatcher` to easily dispatch the tasks. This pool of workers is very useful when you have uniquely defined workers. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huferry/job-dispatcher.git"
+  },
+  "keywords": [
+    "job",
+    "dispatcher",
+    "threading"
+  ],
+  "author": "Ferry Utomo",
+  "license": "ISC",
+  "homepage": "https://github.com/huferry/job-dispatcher#readme"
+}
